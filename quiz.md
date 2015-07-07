@@ -2,20 +2,20 @@
 
 ###What is your name?
 
-Reyna
+Robby
 
 ###What is your favorite color?
 
-Your answer goes here
+Clear
 
 ###Cats or Dogs?
 
-Your answer goes here
+Unicorns
 
 ###What would constitute a “perfect” day for you?
 
-Your answer goes here
+Dinner followed by a long walk on the moon.
 
 ###Given the choice of anyone in the world, whom would you want as a dinner guest?
 
-Your answer goes here
+Bill freakin' Murray
